@@ -102,13 +102,12 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact
 **Purab Ganvir**  
 GitHub: [@Purab47](https://github.com/Purab47)  
-LinkedIn: [Purab Ganvir](https://www.linkedin.com/in/purab-ganvir)
+LinkedIn: [Purab Ganvir](https://www.linkedin.com/in/purab-g-a7b9a5234/)
 
 ---
 Thank you for exploring this project! Feel free to reach out for questions or feedback.
