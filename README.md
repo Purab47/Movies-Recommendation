@@ -76,10 +76,6 @@ The system is deployed on Heroku. To deploy it yourself:
 1. Enter the name of a movie you like in the input field.
 2. Get a list of movies similar to your selection.
 
-## Screenshots
-![Home Page](path-to-your-screenshot/home.png)
-![Recommendation Example](path-to-your-screenshot/recommendation.png)
-
 ## Future Enhancements
 - Integrate collaborative filtering for enhanced recommendations.
 - Add user ratings and reviews for personalized recommendations.
